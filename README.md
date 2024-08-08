@@ -42,7 +42,7 @@ Aveliable Doctors :-
 Register New Doctor :-
 <img width="960" alt="Screenshot 2024-05-01 111522" src="https://github.com/user-attachments/assets/83e7456f-8679-41bc-81a0-ee271a608716">
 
-Collect Reviwe By Patient :-
+Collect Reviwe From Patient :-
 <img width="959" alt="Screenshot 2024-05-01 111605" src="https://github.com/user-attachments/assets/627b56d4-5036-40b7-94c0-7c9a7995b97b">
 
 
