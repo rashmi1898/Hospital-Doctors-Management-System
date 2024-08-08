@@ -1,1 +1,3 @@
 # Hospital-Doctors-Management-System
+
+Hospital Doctors Management system project is written in HTML,CSS,Bootstrap, JavaScript, React Js, Redux Js for Front-end/UI Interface, and NodeJs, Express Js, and MongoDB used for backend and store tha data. This is a simple GUI based web application which is very easy to understand and use. Talking about the application, the user can easily view total patients, doctors, appointments, Contact Us form and manage them all. The Admin can easily viwe total number of aveliable Doctor and Patient, a new admin register them and register a new doctor, the admin change the patient appointment status and admin manage them all.
